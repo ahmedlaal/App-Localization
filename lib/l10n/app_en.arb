@@ -1,0 +1,18 @@
+{
+  "homePage": "Home Page",
+  "personalInformation": "Personal Information",
+  "name": "Name",
+  "nameHint": "Enter your name",
+  "email": "Email",
+  "emailHint": "Enter your email",
+  "requiredField": "Required Field",
+  "signup": "Sign Up",
+  "aboutUs": "About Us",
+  "settings": "Settings",
+  "changeLanguage": "Change Language",
+  "signupText": "Sign Up With Credentials",
+  "password":"Password",
+  "entepass":"Enter Password",
+  "confirmpass":"Enter Password",
+  "alreadyAccount":"Already Have an account "
+ }

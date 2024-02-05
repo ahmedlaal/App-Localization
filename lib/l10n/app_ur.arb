@@ -1,0 +1,18 @@
+{
+    "homePage": "مرکزی صفحہ",
+    "personalInformation": "ذاتی معلومات",
+    "name": "نام",
+    "nameHint": "اپنا نام درج کریں",
+    "email": "ای میل",
+    "emailHint": "اپنا ای میل درج کریں",
+    "requiredField": "مطلوب خانہ",
+    "signup": "سائن اپ",
+    "aboutUs": "ہمارے بارے میں",
+    "settings": "ترتیبات",
+    "changeLanguage": "زبان تبدیل کریں",
+    "signupText": "اسناد کے ساتھ سائن اپ کریں۔",
+  "password":"پاس ورڈ",
+  "entepass":"پاس ورڈ درج کریں",
+  "confirmpass":"پاس ورڈ کی تصدیق کریں۔",
+  "alreadyAccount":"پہلے سے ہی ایک اکاؤنٹ ہے سائن اپ کریں۔"
+   }

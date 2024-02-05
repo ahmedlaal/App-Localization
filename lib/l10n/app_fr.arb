@@ -1,0 +1,18 @@
+{
+    "homePage": "page d’accueil",
+    "personalInformation": "Informations personnelles",
+    "name": "Nom",
+    "nameHint": "Entrez votre nom",
+    "email": "E-mail",
+    "emailHint": "Entrer votre Email",
+    "requiredField": "Champs requis",
+    "signup": "S'inscrire",
+    "aboutUs": "À propos de nous",
+    "settings": "Paramètres",
+    "changeLanguage": "Changer de langue",
+  "signupText": "Inscrivez-vous avec les informations d'identification",
+  "password":"Mot de passe",
+  "entepass":"Entrer le mot de passe",
+  "confirmpass":"Confirmez le mot de passe",
+  "alreadyAccount":"Vous avez déjà un compte S'inscrire"
+}
