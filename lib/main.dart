@@ -6,7 +6,6 @@ void main() {
   runApp(const MyApp());
 }
 
-
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -16,9 +15,9 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(),
       localizationsDelegates: AppLocalizations.localizationsDelegates,
-  supportedLocales: AppLocalizations.supportedLocales,
-  locale: Locale("en",""),
-  home: HomePage(),
+      supportedLocales: AppLocalizations.supportedLocales,
+      locale: Locale("ur", ""),
+      home: HomePage(),
     );
   }
 }
